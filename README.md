@@ -3,6 +3,8 @@
 Ce projet a étais développer dans le cadre d'un formation en ligne dans laquelle j'ai pu manippuler l'aspect des compossants ReactJS que j'ai pu codé.
 Le But a étais de codé un site de vente afin de ventre des plantes avec différentes caractéristiques.
 
+Le projet n'est pour le moment pas finalisé.
+
 
 # Prérequis
 Avant de pouvoir exécuter ce programme, assurez-vous d'avoir installé les éléments suivants sur votre ordinateur:
