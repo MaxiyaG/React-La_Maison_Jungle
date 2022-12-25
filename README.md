@@ -22,13 +22,13 @@ Ouvrez votre terminal et accédez au répertoire où vous souhaitez cloner le pr
 Utilisez la commande git clone pour cloner le dépôt du projet sur votre ordinateur:
 
 ```bash
-git clone https://github.com/votre_nom_d'utilisateur/React-La_Maison_Jungle.git
+git clone https://github.com/MaximeZiyaGunduz/React-La_Maison_Jungle.git
 
 ```
 Accédez au répertoire du projet:
 
 ```bash
-cd React-La_Maison_Jungle
+cd /React-La_Maison_Jungle-master/
 
 ```
 
